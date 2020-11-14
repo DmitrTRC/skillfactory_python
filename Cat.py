@@ -1,6 +1,6 @@
 from typing import List
 
-from animal_lib.cats import Cat, Gender, ShelterStatus
+from demo_lib.cats import Cat, Gender, ShelterStatus
 
 if __name__ == '__main__':
     cats: List[Cat] = list()
