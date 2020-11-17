@@ -2,8 +2,7 @@
 
 ## **Skillfactory FullStack course demo programs**
 
-#### demo_lib/ : Contains classes implementations
+#### demo_lib/  *__Contains classes implementations*__
 
-
-#### ClientList: Demonstrates guest list creation.
-##### Guest class is inherited from Client class. 
+ ClientList: Demonstrates guest list creation.
+ Guest class is inherited from Client class. 
